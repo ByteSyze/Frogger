@@ -1,5 +1,12 @@
+#########################
+##
+##  Camera Follower Script
+##
+##  This script makes the overhead camera
+##  follow the frog around. That's all.
+##
+#########################
 import bge
-import bpy
 
 from bge import logic
 
