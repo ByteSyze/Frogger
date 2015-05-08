@@ -1,4 +1,5 @@
 #############################
+##
 ##  Root Motion Fixer Thingy
 ##  
 ##  This script is designed to remove root motion from
@@ -8,17 +9,30 @@
 ##  Created by Tyler Hackett (C) 2015
 ##
 #############################
+
 import bpy
 
-armature_name   = "Frog_Armature2"
-root_name       = "spine"           ##Bone with root motion
-axis            = "y"
+x_axis = 0
+y_axis = 1
+z_axis = 2
 
-def root_motion(armature_name, root_name)
+start_frame = 0  ## First frame of the animation
+end_frame   = 25 ## Last frame of the animation
+
+armature_name   = "Frog_Armature2"
+root_name       = "spine"           ## Bone with root motion
+axis            = y_axis            ## Axis to remove motion from
+
+scene           = bpy.context.scene
+
+def remove_root_motion(armature_name, root_name):
 
     armature = bpy.data.objects[armature_name].data
-    root_bone = armature.bones["spine"]
-
-    print(root_bone)
+    root_bone = bpy.context.object.pose.bones["spine"]
     
-root_motion(armature_name, root_name)
+    for frame in range(start_frame,end_frame):
+        scene.frame_set(frame)
+        print(root_bone.matrix)
+        
+    
+remove_root_motion(armature_name, root_name)
