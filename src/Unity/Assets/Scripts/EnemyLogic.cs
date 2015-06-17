@@ -15,6 +15,6 @@ public class EnemyLogic : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		enemy.transform.LookAt (player.transform);
-		enemy.transform.position += enemy.transform.forward;
+		enemy.transform.position += enemy.transform.forward * .05f;
 	}
 }
