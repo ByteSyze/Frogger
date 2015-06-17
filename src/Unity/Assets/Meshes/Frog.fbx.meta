@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 61c6512d31cbd9246af0979470c0176a
+timeCreated: 1434158504
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: elbow_IK_L
+    100002: elbow_IK_R
+    100004: foot_IK_L
+    100006: foot_IK_R
+    100008: foot_L
+    100010: foot_R
+    100012: Frog
+    100014: Frog_Armature
+    100016: //RootNode
+    100018: hand_IK_L
+    100020: hand_IK_R
+    100022: hand_L
+    100024: hand_R
+    100026: head
+    100028: head_IK
+    100030: hip_L
+    100032: hip_R
+    100034: knee_IK_L
+    100036: knee_IK_R
+    100038: lower_arm_L
+    100040: lower_arm_R
+    100042: lower_leg_L
+    100044: lower_leg_R
+    100046: middle_arm_L
+    100048: middle_arm_R
+    100050: middle_leg_L
+    100052: middle_leg_R
+    100054: shoulder_L
+    100056: shoulder_R
+    100058: spine
+    100060: tail
+    100062: tail_IK
+    100064: thigh_L
+    100066: thigh_R
+    100068: upper_arm_L
+    100070: upper_arm_R
+    400000: elbow_IK_L
+    400002: elbow_IK_R
+    400004: foot_IK_L
+    400006: foot_IK_R
+    400008: foot_L
+    400010: foot_R
+    400012: Frog
+    400014: Frog_Armature
+    400016: //RootNode
+    400018: hand_IK_L
+    400020: hand_IK_R
+    400022: hand_L
+    400024: hand_R
+    400026: head
+    400028: head_IK
+    400030: hip_L
+    400032: hip_R
+    400034: knee_IK_L
+    400036: knee_IK_R
+    400038: lower_arm_L
+    400040: lower_arm_R
+    400042: lower_leg_L
+    400044: lower_leg_R
+    400046: middle_arm_L
+    400048: middle_arm_R
+    400050: middle_leg_L
+    400052: middle_leg_R
+    400054: shoulder_L
+    400056: shoulder_R
+    400058: spine
+    400060: tail
+    400062: tail_IK
+    400064: thigh_L
+    400066: thigh_R
+    400068: upper_arm_L
+    400070: upper_arm_R
+    4300000: Frog
+    7400000: idle
+    7400002: idle_001
+    7400004: idle_002
+    7400006: leap
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Frog
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: spine
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
