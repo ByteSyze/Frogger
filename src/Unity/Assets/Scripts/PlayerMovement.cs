@@ -22,7 +22,9 @@ public class PlayerMovement : MonoBehaviour
 		anim = GetComponent <Animator> ();
 		playerRigidbody = GetComponent <Rigidbody> ();
 
-		playerRigidbody.rotation.SetLookRotation (new Vector3(0,900,0));
+		playerRigidbody.rotation.SetLookRotation (new Vector3(0,90,0));
+		GameObject.FindWithTag ("Player").transform.rotation.SetLookRotation(new Vector3(0,0,0));
+
 	}
 	
 	

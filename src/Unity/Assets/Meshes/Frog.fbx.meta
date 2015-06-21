@@ -104,7 +104,399 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Frog
+        weight: 1
+      - path: Frog_Armature
+        weight: 1
+      - path: Frog_Armature/elbow_IK_L
+        weight: 1
+      - path: Frog_Armature/elbow_IK_R
+        weight: 1
+      - path: Frog_Armature/foot_IK_L
+        weight: 1
+      - path: Frog_Armature/foot_IK_R
+        weight: 1
+      - path: Frog_Armature/hand_IK_L
+        weight: 1
+      - path: Frog_Armature/hand_IK_R
+        weight: 1
+      - path: Frog_Armature/head_IK
+        weight: 1
+      - path: Frog_Armature/knee_IK_L
+        weight: 1
+      - path: Frog_Armature/knee_IK_R
+        weight: 1
+      - path: Frog_Armature/spine
+        weight: 1
+      - path: Frog_Armature/spine/head
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L/lower_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R/lower_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Frog_Armature/spine/tail
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L/lower_leg_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R/lower_leg_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Frog_Armature/tail_IK
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle_001
+      takeName: idle_001
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Frog
+        weight: 1
+      - path: Frog_Armature
+        weight: 1
+      - path: Frog_Armature/elbow_IK_L
+        weight: 1
+      - path: Frog_Armature/elbow_IK_R
+        weight: 1
+      - path: Frog_Armature/foot_IK_L
+        weight: 1
+      - path: Frog_Armature/foot_IK_R
+        weight: 1
+      - path: Frog_Armature/hand_IK_L
+        weight: 1
+      - path: Frog_Armature/hand_IK_R
+        weight: 1
+      - path: Frog_Armature/head_IK
+        weight: 1
+      - path: Frog_Armature/knee_IK_L
+        weight: 1
+      - path: Frog_Armature/knee_IK_R
+        weight: 1
+      - path: Frog_Armature/spine
+        weight: 1
+      - path: Frog_Armature/spine/head
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L/lower_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R/lower_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Frog_Armature/spine/tail
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L/lower_leg_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R/lower_leg_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Frog_Armature/tail_IK
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle_002
+      takeName: idle_002
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Frog
+        weight: 1
+      - path: Frog_Armature
+        weight: 1
+      - path: Frog_Armature/elbow_IK_L
+        weight: 1
+      - path: Frog_Armature/elbow_IK_R
+        weight: 1
+      - path: Frog_Armature/foot_IK_L
+        weight: 1
+      - path: Frog_Armature/foot_IK_R
+        weight: 1
+      - path: Frog_Armature/hand_IK_L
+        weight: 1
+      - path: Frog_Armature/hand_IK_R
+        weight: 1
+      - path: Frog_Armature/head_IK
+        weight: 1
+      - path: Frog_Armature/knee_IK_L
+        weight: 1
+      - path: Frog_Armature/knee_IK_R
+        weight: 1
+      - path: Frog_Armature/spine
+        weight: 1
+      - path: Frog_Armature/spine/head
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L/lower_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R/lower_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Frog_Armature/spine/tail
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L/lower_leg_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R/lower_leg_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Frog_Armature/tail_IK
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: leap
+      takeName: leap
+      firstFrame: -1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Frog
+        weight: 1
+      - path: Frog_Armature
+        weight: 1
+      - path: Frog_Armature/elbow_IK_L
+        weight: 1
+      - path: Frog_Armature/elbow_IK_R
+        weight: 1
+      - path: Frog_Armature/foot_IK_L
+        weight: 1
+      - path: Frog_Armature/foot_IK_R
+        weight: 1
+      - path: Frog_Armature/hand_IK_L
+        weight: 1
+      - path: Frog_Armature/hand_IK_R
+        weight: 1
+      - path: Frog_Armature/head_IK
+        weight: 1
+      - path: Frog_Armature/knee_IK_L
+        weight: 1
+      - path: Frog_Armature/knee_IK_R
+        weight: 1
+      - path: Frog_Armature/spine
+        weight: 1
+      - path: Frog_Armature/spine/head
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L/lower_arm_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_L/upper_arm_L/middle_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R/lower_arm_R
+        weight: 1
+      - path: Frog_Armature/spine/shoulder_R/upper_arm_R/middle_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Frog_Armature/spine/tail
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L/lower_leg_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_L/thigh_L/middle_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R/lower_leg_R
+        weight: 1
+      - path: Frog_Armature/spine/tail/hip_R/thigh_R/middle_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Frog_Armature/tail_IK
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []
